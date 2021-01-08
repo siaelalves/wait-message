@@ -1,0 +1,14 @@
+C:\Users\user\AppData\Local\Temporary Projects\CRP\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\AppData\Local\Temporary Projects\CRP\obj\x86\Debug\Count.Resources.resources
+C:\Users\user\AppData\Local\Temporary Projects\CRP\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\user\AppData\Local\Temporary Projects\CRP\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projetos\VB\Templates\Ativos\CNT\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projetos\VB\Templates\Ativos\CNT\obj\x86\Debug\Count.Resources.resources
+D:\Projetos\VB\Templates\Ativos\CNT\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projetos\VB\Templates\Ativos\CNT\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projetos\VB\Templates\Ativos\CNT\bin\Debug\wait.exe
+D:\Projetos\VB\Templates\Ativos\CNT\bin\Debug\wait.pdb
+D:\Projetos\VB\Templates\Ativos\CNT\bin\Debug\wait.xml
+D:\Projetos\VB\Templates\Ativos\CNT\obj\x86\Debug\wait.exe
+D:\Projetos\VB\Templates\Ativos\CNT\obj\x86\Debug\wait.xml
+D:\Projetos\VB\Templates\Ativos\CNT\obj\x86\Debug\wait.pdb
